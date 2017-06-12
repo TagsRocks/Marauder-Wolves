@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4f6911d6d198c864489c8b23699c0d6e
+timeCreated: 1488618594
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Handy candy
+  fontNames:
+  - Handy candy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

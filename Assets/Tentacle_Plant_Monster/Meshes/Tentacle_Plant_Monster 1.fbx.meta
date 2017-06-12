@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 79cb2910d30b30c41af57cbd4dd6a33d
+timeCreated: 1482335654
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Body
+    100004: Leaf_1
+    100006: Leaf_2
+    100008: Leaf_3
+    100010: Leaf_4
+    100012: Leaf_5
+    100014: Leaf_6
+    100016: Leafs
+    100018: Low
+    100020: Mid
+    100022: Neck
+    100024: Tentacle_1
+    100026: Tentacle_2
+    100028: Tentacle_3
+    100030: Tentacle_Mid
+    100032: Tentacle_Mid_2
+    100034: Tentacle_Mid_3
+    100036: //RootNode
+    100038: Tentacle_Root
+    100040: Tentacle_Root_2
+    100042: Tentacle_Root_3
+    100044: Tentacle_Tip
+    100046: Tentacle_Tip_2
+    100048: Tentacle_Tip_3
+    100050: Yaw_Lower
+    100052: Yaw_Upper
+    400000: Base
+    400002: Body
+    400004: Leaf_1
+    400006: Leaf_2
+    400008: Leaf_3
+    400010: Leaf_4
+    400012: Leaf_5
+    400014: Leaf_6
+    400016: Leafs
+    400018: Low
+    400020: Mid
+    400022: Neck
+    400024: Tentacle_1
+    400026: Tentacle_2
+    400028: Tentacle_3
+    400030: Tentacle_Mid
+    400032: Tentacle_Mid_2
+    400034: Tentacle_Mid_3
+    400036: //RootNode
+    400038: Tentacle_Root
+    400040: Tentacle_Root_2
+    400042: Tentacle_Root_3
+    400044: Tentacle_Tip
+    400046: Tentacle_Tip_2
+    400048: Tentacle_Tip_3
+    400050: Yaw_Lower
+    400052: Yaw_Upper
+    4300000: Leafs
+    4300002: Tentacle_1
+    4300004: Tentacle_2
+    4300006: Tentacle_3
+    4300008: Body
+    9500000: //RootNode
+    13700000: Body
+    13700002: Leafs
+    13700004: Tentacle_1
+    13700006: Tentacle_2
+    13700008: Tentacle_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
