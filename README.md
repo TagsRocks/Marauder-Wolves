@@ -17,6 +17,9 @@ https://unity3d.com/
 ![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
 ![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398805-ba6209d0-6cbd-11e7-87e4-c1ce57973303.png)
 
+Android Support on Devices running Android 6.0 or later(Below is a Preview of the game running on a Nexus Phone with Android 7.0)
+![mw](https://user-images.githubusercontent.com/18353476/28504040-4af758ba-6fc5-11e7-8c0f-d180f8e752b7.png)
+
 # Getting started with Android development
 
 https://docs.unity3d.com/Manual/android-GettingStarted.html
