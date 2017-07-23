@@ -4,8 +4,11 @@ A 2d platformer game programmed in Unity3d. Make sure to run in the latest versi
 # Level Design
 ![dana-forest2](https://user-images.githubusercontent.com/18353476/27512611-82516322-58fb-11e7-8195-0fb2935f6996.PNG)
 ![dana city](https://user-images.githubusercontent.com/18353476/27512592-8ba5b758-58fa-11e7-9aeb-d98075e1fc21.PNG)
+![seth city](https://user-images.githubusercontent.com/18353476/28496612-815bb5f0-6f24-11e7-9e83-32aeaf9720fa.PNG)
 
-# Multiplayer/Co-Op Lobby and partial World Map
+# Multiplayer Co-Op Lobby and partial World Map
+![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
+![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
 # Unity3d
 https://unity3d.com/
