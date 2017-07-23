@@ -10,7 +10,7 @@ A 2d platformer game programmed in Unity3d. Make sure to run in the latest versi
 ![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
 ![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
-# Unity3d
+# Unity3d(Building for PC, Mac, and Android)
 https://unity3d.com/
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
