@@ -6,6 +6,11 @@
 ![dana city](https://user-images.githubusercontent.com/18353476/27512592-8ba5b758-58fa-11e7-9aeb-d98075e1fc21.PNG)
 ![seth city](https://user-images.githubusercontent.com/18353476/28496612-815bb5f0-6f24-11e7-9e83-32aeaf9720fa.PNG)
 
+# Newer Level Designs
+![a_bg10sunrise_goc](https://user-images.githubusercontent.com/18353476/30455870-65687ad4-9956-11e7-9058-3e29915262b1.png)
+![night](https://user-images.githubusercontent.com/18353476/30456024-d7f20322-9956-11e7-90c5-d570b55805ff.png)
+![a_shop_goc](https://user-images.githubusercontent.com/18353476/30455871-656ab358-9956-11e7-9601-aa6d6a4d9d36.png)
+
 # Multiplayer Co-Op Lobby and partial World Map
 ![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
 ![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
