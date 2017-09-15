@@ -15,8 +15,13 @@
 ![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
 ![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
-# Unity3d(Building for PC, Mac, and Android)
-https://unity3d.com/
+# Unity(Building for PC, Mac, Android, and iOS)
+
+[Get Unity here](https://unity3d.com/)
+
+[Game Development with Unity for iOS and Android devices.pdf](https://github.com/Mikerr1111/Marauder-Wolves/files/1216274/Game.Development.with.Unity.for.iOS.and.Android.devices.pdf)
+
+![unity-native-plugins-intro-sdk-architecture](https://user-images.githubusercontent.com/18353476/29191030-200f304a-7dd1-11e7-99c0-96915e796721.png)
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
 ![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
@@ -27,14 +32,26 @@ Android Support on Devices running Android 6.0 or later(Below is a Preview of th
 
 # Getting started with Android development
 
-https://docs.unity3d.com/Manual/android-GettingStarted.html
+[Getting Started with Android in Unity](https://docs.unity3d.com/Manual/android-GettingStarted.html)
 
 # Android Studio
 https://developer.android.com/studio/index.html
 
-A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
+[A good tutorial for Android Studio Setup(Windows, macOS, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
 
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
+
+# iOS Build Settings
+Unity v5.6.1 or later.
+
+Requires iOS 10 or later.
+
+Requires [XCode 9](https://developer.apple.com/xcode/) Beta 5 or later. 
+
+Requires iOS device(iPhone 6S or later, iPad (2016) or later)
+
+In Bulid setting make sure to checkmark the boxes for Symlink Unity libraries and Development Build.
+![switch_platform-ios](https://user-images.githubusercontent.com/18353476/29189508-afd6ff06-7dcb-11e7-84e3-0b45e50e36ca.png)
 
 # Vulkan Support 
 Vulkan is a new generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.
