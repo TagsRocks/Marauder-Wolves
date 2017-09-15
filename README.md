@@ -52,6 +52,7 @@ Requires iOS device(iPhone 6S or later, iPad (2016) or later)
 
 In Bulid setting make sure to checkmark the boxes for Symlink Unity libraries and Development Build.
 ![switch_platform-ios](https://user-images.githubusercontent.com/18353476/29189508-afd6ff06-7dcb-11e7-84e3-0b45e50e36ca.png)
+![ipad](https://user-images.githubusercontent.com/18353476/30475662-7a20486a-99bc-11e7-99bd-d29f436cc1c0.jpg)
 
 # Vulkan Support 
 Vulkan is a new generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs in both PCs and on mobile platforms. Android Nougat version 7.0 from Google brings official support for the Vulkan API.The main benefit of Vulkan over older mobile rendering APIs such as OpenGL ES 3.x is speed. Vulkan is designed to take advantage of multiple CPU cores by allowing the application to build command lists in multiple threads in parallel. This allows the application to take advantage of all of the CPU cores on the device, improving performance.
