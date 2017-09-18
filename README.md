@@ -28,7 +28,7 @@
 ![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398805-ba6209d0-6cbd-11e7-87e4-c1ce57973303.png)
 
 Android Support on Devices running Android 6.0 or later(Below is a Preview of the game running on a Nexus Phone with Android 7.0)
-![mw](https://user-images.githubusercontent.com/18353476/28504040-4af758ba-6fc5-11e7-8c0f-d180f8e752b7.png)
+![nexus mw](https://user-images.githubusercontent.com/18353476/30528052-06a392d2-9be4-11e7-8118-7d3a8affc982.png)
 
 # Getting started with Android development
 
