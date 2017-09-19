@@ -9,6 +9,8 @@
 # Newer Level Designs
 ![a_bg10sunrise_goc](https://user-images.githubusercontent.com/18353476/30455870-65687ad4-9956-11e7-9058-3e29915262b1.png)
 ![night](https://user-images.githubusercontent.com/18353476/30456024-d7f20322-9956-11e7-90c5-d570b55805ff.png)
+![tlo ameryka 3 jaszczyl kopia](https://user-images.githubusercontent.com/18353476/30615398-af7bb834-9d43-11e7-85dc-05d1e5a571e4.jpg)
+![wieczor_bg_2_jaszczyk](https://user-images.githubusercontent.com/18353476/30615400-b2128884-9d43-11e7-9c4b-72bb596fcde2.jpg)
 ![a_shop_goc](https://user-images.githubusercontent.com/18353476/30455871-656ab358-9956-11e7-9601-aa6d6a4d9d36.png)
 
 # Multiplayer Co-Op Lobby and partial World Map
