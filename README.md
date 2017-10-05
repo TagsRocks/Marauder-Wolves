@@ -18,6 +18,14 @@ A preview of new platforms for the new upcoming levels(Early 2018).
 
 # Multiplayer Co-Op Lobby and partial World Map
 ![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
+
+[Unity3d Multiplayer and Networking tutorials](https://unity3d.com/learn/tutorials/topics/multiplayer-networking)
+![unity_networkhost_structure](https://user-images.githubusercontent.com/18353476/31208564-bb2d7a84-a93a-11e7-809b-8b46dd9f5543.png)
+Local Players Networking
+![networklocalplayers](https://user-images.githubusercontent.com/18353476/31208562-b9d588ac-a93a-11e7-83c7-952df3679df5.png)
+Unity Network Authority
+![networkauthority](https://user-images.githubusercontent.com/18353476/31208563-b9d9e74e-a93a-11e7-92a2-cf29528092f4.png)
+
 ![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
 # Unity(Building for PC, Mac, Android, and iOS)
