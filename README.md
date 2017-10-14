@@ -1,6 +1,21 @@
 # Marauder Wolves
  Make sure to Build and Run the game in Unity 5.6.1f1 or later for best performance.
 ![unity](https://user-images.githubusercontent.com/18353476/29190917-b09be474-7dd0-11e7-9ada-b68d15f26d54.gif)
+
+# Character's Design and Animations
+
+The original Bosses.
+![boss_02_run_01](https://user-images.githubusercontent.com/18353476/31572559-2beb43bc-b05e-11e7-88ba-10b2853e7746.gif)
+![boss_01_run_01](https://user-images.githubusercontent.com/18353476/31572562-35850714-b05e-11e7-9ee0-df288b28bee3.gif)
+
+Monster Minions.
+![monster_02_closeattack_01](https://user-images.githubusercontent.com/18353476/31572575-65169420-b05e-11e7-918a-f88df3ef9da2.gif)
+![monster_04_needlethrow_01](https://user-images.githubusercontent.com/18353476/31572579-729be7ee-b05e-11e7-9bc5-f736c3896591.gif)
+
+The two original Marauder Wolves characters Dana(Super soldier) and Seth(Fire warrior).
+![dana](https://user-images.githubusercontent.com/18353476/31572722-12a2742c-b061-11e7-897c-352735186e8d.gif)
+![seth](https://user-images.githubusercontent.com/18353476/31572723-14903db4-b061-11e7-9781-3e3cedae6bc7.gif)
+
 # Level Design
 ![dana-forest2](https://user-images.githubusercontent.com/18353476/27512611-82516322-58fb-11e7-8195-0fb2935f6996.PNG)
 ![dana city](https://user-images.githubusercontent.com/18353476/27512592-8ba5b758-58fa-11e7-9aeb-d98075e1fc21.PNG)
