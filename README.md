@@ -58,8 +58,17 @@ Android Support on Devices running Android 6.0 or later(Below is a Preview of th
 
 [Getting Started with Android in Unity](https://docs.unity3d.com/Manual/android-GettingStarted.html)
 
+# Getting Started with Android NDK
+The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
+
+  Squeeze extra performance out of a device to achieve low latency or run computationally intensive applications, such as games or  physics simulations.
+
+  Reuse your own or other developers' C or C++ libraries.
+
+Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
+
 # Android Studio
-https://developer.android.com/studio/index.html
+[Get Android Studio](https://developer.android.com/studio/index.html)
 
 [A good tutorial for Android Studio Setup(Windows, macOS, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
 
