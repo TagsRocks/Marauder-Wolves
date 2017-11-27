@@ -1,9 +1,8 @@
 # Marauder Wolves
  Make sure to Build and Run the game in Unity 5.6.1f1 or later for best performance.
-![unity](https://user-images.githubusercontent.com/18353476/29190917-b09be474-7dd0-11e7-9ada-b68d15f26d54.gif)
+![mw](https://user-images.githubusercontent.com/18353476/33286966-f6af802e-d36b-11e7-883a-27b518d02e12.png)
 
 # Character's Design and Animations
-
 The original Bosses.
 ![boss_02_run_01](https://user-images.githubusercontent.com/18353476/31572559-2beb43bc-b05e-11e7-88ba-10b2853e7746.gif)
 ![boss_01_run_01](https://user-images.githubusercontent.com/18353476/31572562-35850714-b05e-11e7-9ee0-df288b28bee3.gif)
