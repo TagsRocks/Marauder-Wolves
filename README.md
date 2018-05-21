@@ -27,7 +27,10 @@ The two original Marauder Wolves characters Dana(Super soldier) and Seth(Fire wa
 A preview of new platforms for the new upcoming levels(Early 2018).
 ![platforms2](https://user-images.githubusercontent.com/18353476/31203280-399dad0a-a91b-11e7-8079-49ab959fa3b1.png)
 
-# Multiplayer Co-Op Lobby and partial World Map
+#  Partial World Map
+![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
+
+# Multiplayer Co-Op Lobby
 ![multiplayer](https://user-images.githubusercontent.com/18353476/28496614-858c67aa-6f24-11e7-8506-ad4fd8c3642d.PNG)
 
 [Unity3d Multiplayer and Networking tutorials](https://unity3d.com/learn/tutorials/topics/multiplayer-networking)
@@ -36,8 +39,6 @@ Local Players Networking
 ![networklocalplayers](https://user-images.githubusercontent.com/18353476/31208562-b9d588ac-a93a-11e7-83c7-952df3679df5.png)
 Unity Network Authority
 ![networkauthority](https://user-images.githubusercontent.com/18353476/31208563-b9d9e74e-a93a-11e7-92a2-cf29528092f4.png)
-
-![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
 # Unity(Building for PC, Mac, Android, and iOS)
 
@@ -49,14 +50,26 @@ Unity Network Authority
 
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
 ![playersetandroidconfiguration](https://user-images.githubusercontent.com/18353476/28398802-b888561e-6cbd-11e7-9bd4-9d77f33e424e.png)
-![playersetandroidpublish](https://user-images.githubusercontent.com/18353476/28398805-ba6209d0-6cbd-11e7-87e4-c1ce57973303.png)
 
 Android Support on Devices running Android 6.0 or later(Below is a Preview of the game running on a Nexus Phone with Android 7.0)
 ![nexus mw](https://user-images.githubusercontent.com/18353476/30528052-06a392d2-9be4-11e7-8118-7d3a8affc982.png)
 
 # Getting started with Android development
+![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
+
+[Get Android Studio](https://developer.android.com/studio/index.html)
 
 [Getting Started with Android in Unity](https://docs.unity3d.com/Manual/android-GettingStarted.html)
+
+[Setting up Android SDK/NDK in Unity](https://docs.unity3d.com/Manual/android-sdksetup.html)
+
+[Profiling App Performance on Android](https://developer.android.com/studio/profile/index.html)
+
+[Publishing App on Android](https://developer.android.com/studio/publish/index.html)
+
+[Android 8.1 (API level 27) Features and APIs ](https://developer.android.com/about/versions/oreo/android-8.1)
+
+[Android 8.0 (API level 26) Features and APIs](https://developer.android.com/about/versions/oreo/android-8.0.html)
 
 # Getting Started with Android NDK
 The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/index.html) is a set of tools that allows you to use C and C++ code with Android, and provides platform libraries you can use to manage native activities and access physical device components, such as sensors and touch input. The NDK may not be appropriate for most novice Android programmers who need to use only Java code and framework APIs to develop their apps. However, the NDK can be useful for cases in which you need to do one or more of the following:
@@ -66,13 +79,6 @@ The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/inde
   Reuse your own or other developers' C or C++ libraries.
 
 Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
-
-# Android Studio
-[Get Android Studio](https://developer.android.com/studio/index.html)
-
-[A good tutorial for Android Studio Setup(Windows, macOS, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
-
-![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 
 # iOS Build Settings
 Unity v5.6.1 or later.
