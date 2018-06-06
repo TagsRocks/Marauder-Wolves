@@ -24,9 +24,6 @@ The two original Marauder Wolves characters Dana(Super soldier) and Seth(Fire wa
 ![wieczor_bg_2_jaszczyk](https://user-images.githubusercontent.com/18353476/30615400-b2128884-9d43-11e7-9c4b-72bb596fcde2.jpg)
 ![a_shop_goc](https://user-images.githubusercontent.com/18353476/30455871-656ab358-9956-11e7-9601-aa6d6a4d9d36.png)
 
-A preview of new platforms for the new upcoming levels(Early 2018).
-![platforms2](https://user-images.githubusercontent.com/18353476/31203280-399dad0a-a91b-11e7-8079-49ab959fa3b1.png)
-
 #  Partial World Map
 ![map](https://user-images.githubusercontent.com/18353476/28496613-83bbe4fa-6f24-11e7-9659-4a61ccdaaeeb.PNG)
 
