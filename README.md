@@ -32,6 +32,10 @@ Unity Network Authority
 
 [Get Unity here](https://unity3d.com/)
 
+Unity 2018.2.4f1 for Linux: https://beta.unity3d.com/download/fe703c5165de/public_download.html
+
+Unity 2018.2.4f1 Release Notes: https://unity3d.com/unity/whatsnew/unity-2018.2.4
+
 [Game Development with Unity for iOS and Android devices.pdf](https://github.com/Mikerr1111/Marauder-Wolves/files/1216274/Game.Development.with.Unity.for.iOS.and.Android.devices.pdf)
 
 ![unity-native-plugins-intro-sdk-architecture](https://user-images.githubusercontent.com/18353476/29191030-200f304a-7dd1-11e7-99c0-96915e796721.png)
